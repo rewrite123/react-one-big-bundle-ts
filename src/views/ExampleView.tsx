@@ -1,6 +1,6 @@
 import React from 'react';
 
-import * as coolFlyingAero from '../assets/oldest.gif';
+import coolFlyingAero from '../assets/oldest.gif';
 
 const ExampleView: React.FC = () => {
   const badWord = '[redacted]';

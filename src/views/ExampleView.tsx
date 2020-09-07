@@ -59,7 +59,7 @@ const ExampleView: React.FC = () => {
         <h2>
           Isaac Hormel
         </h2>
-        <a href='https://github.com/rewrite123/react-one-big-bundle' target='_blank' rel='noreferrer'>Github repo</a>
+        <a href='https://github.com/rewrite123/react-one-big-bundle-ts' target='_blank' rel='noreferrer'>Github repo</a>
       </div>
     </div>
   );
